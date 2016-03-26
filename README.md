@@ -12,6 +12,7 @@ Don't forget to
 
 # Compile your target file
 command in CLI --> mvn clean package
+
 DONE!
 
 # Execute your 
